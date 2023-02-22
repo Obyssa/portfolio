@@ -1,0 +1,144 @@
+body{
+    background-color: #1e1e1e;
+    color: #FFFFFF;
+}
+.presentation{
+    background-color: #171010;
+   
+}
+.etude{
+    background-color: #423F3E;
+}
+.conpetence{
+    background-color: #171010;
+}
+.contact{
+    background-color: #423F3E;
+}
+.titre{
+    margin-left: 5%;
+    margin-bottom: 0%;
+}
+
+
+/*présentation*/
+.pripriprisonier{
+    
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+     
+}
+/*Navbar*/
+
+.navbar-brand{
+    color: grey;
+}
+.navbar-brand:hover{
+    color: #FFFFFF!important;  
+    
+}
+.nav-link:focus, .nav-link:hover{
+    color:#000000;
+    background-color: #FFFFFF;
+}
+.nav-link{
+    color: grey;
+}
+.nav-link:hover{
+    color: #000000;
+    background-color: #FFFFFF;
+    
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+  
+  
+li{
+    margin-right: 5%;
+}
+.banner-center-text{
+    text-align: center;
+    color: #5b5b6b;
+    margin-top: -45%;
+    font-size: 50px;
+    
+}
+.bonjour{
+    background-color: aqua;
+}
+.jeSuis{
+    background-color: aqua;
+}
+.bts{
+    background-color: aqua;
+}
+
+/*Navbar*/
+.navbar{
+    background: #1e1e1e;
+}
+.titre{
+    margin-top: 2%;
+}
+.texte{
+    margin-top: 2%;
+}
+.imageCode{
+    width: 100%;
+}
+/*Indentation text*/
+.indentation{
+    text-indent: 20px;
+    text-align: justify;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.card-text{
+    color: #FFFFFF;
+}
+.card-title{
+    color: #FFFFFF;
+}
+#hiddenText{
+    color: #FFFFFF;
+}
+#hiddenText2{
+    color: #FFFFFF;
+}
+/*imgVeille*/
+.imgVeille{
+    width: 50%;
+    margin-top: -3%;
+}
+.neal{
+    width: 100%;
+}
+.meta{
+    width: 50%;
+    
+}
+.horizon{
+    width: 99%;
+}
+
+.adresseMail{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.adresseMail:hover{
+    color: rgb(107, 107, 107);
+    
+}
+
+
+.card {
+    transition: all 0.3s ease-in-out;
+    background-color: #646161;
+}
+  
+
+  
